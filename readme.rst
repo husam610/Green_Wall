@@ -1,4 +1,11 @@
 ###################
+Green Wall
+###################
+simple social networking site
+
+This project was done using CodeIgniter framework
+
+###################
 What is CodeIgniter
 ###################
 
