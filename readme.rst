@@ -3,7 +3,7 @@ Green Wall
 ###################
 simple social networking site
 
-This project was done using CodeIgniter framework
+This project was done using PHP with CodeIgniter framework
 
 ###################
 What is CodeIgniter
